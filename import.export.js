@@ -9,7 +9,7 @@
 // when using the import syntax.
 
 // 1)process
-
+//2)Specifiers
 
 // Create 3 functions using the export/import syntax.
 const {sum,multi,min}=require('./3functions')
